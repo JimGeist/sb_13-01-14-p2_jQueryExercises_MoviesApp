@@ -4,19 +4,13 @@
 
 Assignment involved further exploration of jQuery by adding jQuery statements to manipulate certain DOM elements.
 
-Part One: [jQuery DOM Practice](https://jimgeist.github.io/sb_13-01-14-p1_jQueryExercises_DOM-Practice/)
-
-## Part Two: [Movies App!](https://jimgeist.github.io/sb_13-01-14-p2_jQueryExercises_MoviesApp/)
-
-
-## Assignment Details
-
-# Part One ([jQuery DOM Practice repository](https://github.com/JimGeist/sb_13-01-14-p1_jQueryExercises_DOM-Practice/))
+### Part One: [jQuery DOM Practice](https://jimgeist.github.io/sb_13-01-14-p1_jQueryExercises_DOM-Practice/)
+([jQuery DOM Practice repository](https://github.com/JimGeist/sb_13-01-14-p1_jQueryExercises_DOM-Practice/))
 
 Write some jQuery statements to perform some DOM manipulations.
 
 
-# Part Two 
+### Part Two: [Movies App!](https://jimgeist.github.io/sb_13-01-14-p2_jQueryExercises_MoviesApp/)
 
 Build an application that uses jQuery to do the following:
 * Contains a form with two inputs for a title and rating along with a button to submit the form.
